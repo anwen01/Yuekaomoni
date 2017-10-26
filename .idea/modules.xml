@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TwoImagelibrary/TwoImagelibrary.iml" filepath="$PROJECT_DIR$/TwoImagelibrary/TwoImagelibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yuekaomoni.iml" filepath="$PROJECT_DIR$/Yuekaomoni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imageloader/imageloader.iml" filepath="$PROJECT_DIR$/imageloader/imageloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycartutils/mycartutils.iml" filepath="$PROJECT_DIR$/mycartutils/mycartutils.iml" />
+    </modules>
+  </component>
+</project>
